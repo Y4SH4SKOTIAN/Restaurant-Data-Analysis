@@ -1,8 +1,6 @@
 # Restaurant-Data-Analysis
-Restaurant Data Analysis – Cognifyz Internship
+Restaurant Data Analysis 
 📌 Project Overview
-
-This project was completed as part of the Data Analysis Internship at Cognifyz Technologies.
 
 The objective was to analyze restaurant data and identify trends related to cuisines, pricing, ratings, online delivery, table booking, and restaurant chains using SQL and Power BI.
 
